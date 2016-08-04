@@ -1,0 +1,44 @@
+_repo: Statesman_1738
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: 'The Statesman is Plato''s neglected political work, but it is crucial
+  for an understanding of the development of his political thinking. In some respects
+  it continues themes from the Republic, particularly the importance of knowledge
+  as entitlement to rule. But there are also changes: Plato has dropped the ambitious
+  metaphysical synthesis of the Republic, changed his view of the moral psychology
+  of the citizen, and revised his position on the role of law and institutions. In
+  its presentation of the statesman''s expertise, the Statesman modifies, as well
+  as defending in original ways, this central theme of the Republic.'
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1738'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political science -- Early works to 1800'
+- !lcsh 'Classical literature'
+- !lcc 'JC'
+- !lcc 'PA'
+- GITenberg
+title: Statesman
+url: http://www.gutenberg.org/ebooks/1738
