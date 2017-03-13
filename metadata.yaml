@@ -1,5 +1,5 @@
 _repo: Statesman_1738
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Jowett, Benjamin
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '94'
     url: http://www.gutenberg.org/2009/agents/94
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Plato
@@ -26,6 +29,8 @@ description: 'The Statesman is Plato''s neglected political work, but it is cruc
   of the citizen, and revised his position on the role of law and institutions. In
   its presentation of the statesman''s expertise, the Statesman modifies, as well
   as defending in original ways, this central theme of the Republic.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1738#Statesman
 gutenberg_issued: '1999-05-01'
 gutenberg_type: Text
 identifiers:
